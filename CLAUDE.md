@@ -31,4 +31,15 @@
 
 ---
 
+## פרוטוקול חובה — תחילת וסוף כל סשן
+
+**בתחילת כל סשן ולפני כל פקודה:** הפעל את הסקיל `obsidian-vault-workflow` (Phase 1) — זהה את נושא המשימה, חפש קובץ vault קיים, קרא Meeting Notes אחרונות.
+
+**בסוף כל סשן:** הפעל את הסקיל `obsidian-vault-workflow` (Phase 2) — עדכן או צור קובץ vault עם Session Log מתואר.
+
+הסקיל נמצא ב: `.claude/skills/obsidian-vault-workflow/SKILL.md`
+ה-vault נמצא ב: `vault/` (Meeting Notes, Content Briefs, Publishing Log, Brand Guidelines)
+
+---
+
 > **הערה:** זהו קובץ ראשוני. בהמשך נוסיף לו הוראות ניתוב מפורטות — כיצד אני מחליט איזה סוכן להפעיל, באילו תנאים, ומה הפלט הצפוי מכל אחד.
